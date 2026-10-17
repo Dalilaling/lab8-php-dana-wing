@@ -1,0 +1,8 @@
+# Archivos de configuración con credenciales (¡Nunca subir!)
+config/db.php
+
+# Archivos temporales de PHP (muestra info sensible)
+public/info.php
+
+# Archivos ocultos del sistema operativo Mac
+.DS_Store
