@@ -16,4 +16,4 @@ CREATE TABLE estudiantes (
 );
 
 INSERT INTO estudiantes (cedula, nombre, apellido, codigo)
-VALUES ('8-1044-2114', 'dana', 'wing', 'TEMP0000');
+VALUES ('8-1044-2114', 'dana', 'wing', '9cc3d5f2');
