@@ -1,0 +1,11 @@
+{
+    "php_version": "8.3.30",
+    "sapi": "cgi-fcgi",
+    "os_family": "Darwin",
+    "servidor": "Apache\/2.4.66 (Unix) OpenSSL\/1.1.1w mod_fastcgi\/mod_fastcgi-SNAP-0910052141",
+    "mysqli": true,
+    "db_version": "8.0.44",
+    "db_nombre": "lab8_web",
+    "filas": 1,
+    "token": "73f35af5c6"
+}
